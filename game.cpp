@@ -8,7 +8,7 @@
 #define SPRITESIZE		15
 
 using namespace Tmpl8;
-
+//Minor change
 // calculate accurate square roots of four scalars in an __m128
 static __forceinline float fastsqrtf( float v )
 {
